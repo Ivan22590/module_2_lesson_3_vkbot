@@ -1,0 +1,4 @@
+vkbottle>=4.3
+python-dotenv>=1.0
+openai>=1.40
+loguru>=0.7

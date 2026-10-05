@@ -1,0 +1,11 @@
+# Окружение и ключи
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Состояние LongPoll (создаётся vkbottle)
+.vkbottle/
